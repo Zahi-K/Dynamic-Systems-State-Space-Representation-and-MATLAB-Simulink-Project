@@ -30,8 +30,8 @@ I’ll use a simple system to demonstrate the method. However, the method is the
 
 ### Here is some useful references:
 
-![Alt text](pasted_permalink)
-![Alt text](pasted_permalink)
+![Alt text]([pasted_permalink](https://github.com/Zahi-K/Dynamic-Systems-State-Space-Representation-and-MATLAB-Simulink-Project/blob/419197504f653840e0b89b12aeb20ffa07d811ab/Reference1.jpeg))
+![Alt text]([pasted_permalink](https://github.com/Zahi-K/Dynamic-Systems-State-Space-Representation-and-MATLAB-Simulink-Project/blob/419197504f653840e0b89b12aeb20ffa07d811ab/Reference2.jpeg))
 
 ### The system we’ll model:
 ![Alt text](pasted_permalink)
