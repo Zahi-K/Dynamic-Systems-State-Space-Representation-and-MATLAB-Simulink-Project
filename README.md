@@ -1,16 +1,19 @@
 # Dynamic Systems: State-Space Representation and MATLAB Simulink Project
 **System Modeling, Mathematical Representation, Simulation using Simulink**\
+
 (A.I. is used for organizing the report)\
+
 Theory not provided(many good explanations can be found online), only demonstration of the method. However, for inquiries of any kind, feel free to reach out on my email(on my profile).\
+
 All projects and portfolios are solely my own with no outside contributions to the making.
 
 ## I.	Why the project is useful
 
-This Project is An Introduction to Control Systems\
-This project is an "intro" because it teaches you the three pillars of control:\
-1.	Modeling (The Physics): Writing the equations of motion for the components.\
-2.	Representation (The Math): Organizing those equations into the matrix format. The A matrix represents the system's internal "personality" (how it moves on its own), while the B matrix represents how your inputs (like a motor torque) change that behavior.\
-3.	Simulation (The Testing): Using the Integrator blocks in Simulink to see if your system oscillates, crashes, or stays stable.\
+This Project is An Introduction to Control Systems
+This project is an "intro" because it teaches you the three pillars of control:
+1.	Modeling (The Physics): Writing the equations of motion for the components.
+2.	Representation (The Math): Organizing those equations into the matrix format. The A matrix represents the system's internal "personality" (how it moves on its own), while the B matrix represents how your inputs (like a motor torque) change that behavior.
+3.	Simulation (The Testing): Using the Integrator blocks in Simulink to see if your system oscillates, crashes, or stays stable.
 
 ## II.	What the project does
 
