@@ -1,4 +1,4 @@
-# Dynamic-Systems-with-simulink-Project
+# Dynamic Systems: State-Space Representation and MATLAB Simulink Project
 **System Modeling, Mathematical Representation, Simulation using Simulink**
 (A.I. is used for organizing the report)
 Theory not provided(many good explanations can be found online), only demonstration of the method. However, for inquiries of any kind, feel free to reach out on my email(on my profile).
