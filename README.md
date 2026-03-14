@@ -28,19 +28,37 @@ In reality, you rarely have one simple input and one output. State-space allows 
 
 I’ll use a simple system to demonstrate the method. However, the method is the same and just as simple for more complex systems.
 
-### Here is some useful references:
+#### Here is some useful references:
+<p align="center">
+<img src="https://github.com/Zahi-K/Dynamic-Systems-State-Space-Representation-and-MATLAB-Simulink-Project/blob/419197504f653840e0b89b12aeb20ffa07d811ab/Reference1.jpeg" alt="Alt text" style="width: 60%; height: auto;">
+</p>
+<p align="center">
+<img src="https://github.com/Zahi-K/Dynamic-Systems-State-Space-Representation-and-MATLAB-Simulink-Project/blob/419197504f653840e0b89b12aeb20ffa07d811ab/Reference2.jpeg" alt="Alt text" style="width: 60%; height: auto;">
+</p>
 
-![Alt text]([pasted_permalink](https://github.com/Zahi-K/Dynamic-Systems-State-Space-Representation-and-MATLAB-Simulink-Project/blob/419197504f653840e0b89b12aeb20ffa07d811ab/Reference1.jpeg))
-![Alt text]([pasted_permalink](https://github.com/Zahi-K/Dynamic-Systems-State-Space-Representation-and-MATLAB-Simulink-Project/blob/419197504f653840e0b89b12aeb20ffa07d811ab/Reference2.jpeg))
+#### The system we’ll model:
+<p align="center">
+<img src="https://github.com/Zahi-K/Dynamic-Systems-State-Space-Representation-and-MATLAB-Simulink-Project/blob/419197504f653840e0b89b12aeb20ffa07d811ab/Problem.png" alt="Alt text" style="width: 70%; height: auto;">
+</p>
 
-### The system we’ll model:
-![Alt text](pasted_permalink)
-### Method:
-![Alt text](pasted_permalink)
-![Alt text](pasted_permalink)
-![Alt text](pasted_permalink)
-### And finally, the block diagram on MATLAB Simulink:
-![Alt text](pasted_permalink)
+#### Method:
+
+<p align="center">
+<img src="https://github.com/Zahi-K/Dynamic-Systems-State-Space-Representation-and-MATLAB-Simulink-Project/blob/419197504f653840e0b89b12aeb20ffa07d811ab/Calculations1.jpeg" alt="Alt text" style="width: 80%; height: auto;">
+</p>
+<p align="center">
+<img src="https://github.com/Zahi-K/Dynamic-Systems-State-Space-Representation-and-MATLAB-Simulink-Project/blob/419197504f653840e0b89b12aeb20ffa07d811ab/Calculations2.jpeg" alt="Alt text" style="width: 80%; height: auto;">
+</p>
+<p align="center">
+<img src="https://github.com/Zahi-K/Dynamic-Systems-State-Space-Representation-and-MATLAB-Simulink-Project/blob/419197504f653840e0b89b12aeb20ffa07d811ab/Calculations3.jpeg" alt="Alt text" style="width: 80%; height: auto;">
+</p>
+
+#### And finally, the block diagram on MATLAB Simulink:
+
+<p align="center">
+<img src="https://github.com/Zahi-K/Dynamic-Systems-State-Space-Representation-and-MATLAB-Simulink-Project/blob/419197504f653840e0b89b12aeb20ffa07d811ab/BlockDiagramSimulink.png" alt="Alt text" style="width: 70%; height: auto;">
+</p>
+The file for the MATLAB simulink block diagram is available on the repository.
 
 
 
