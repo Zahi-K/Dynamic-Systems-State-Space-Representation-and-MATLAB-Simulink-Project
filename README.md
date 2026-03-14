@@ -56,7 +56,7 @@ I’ll use a simple system to demonstrate the method. However, the method is the
 #### And finally, the block diagram on MATLAB Simulink:
 
 <p align="center">
-<img src="https://github.com/Zahi-K/Dynamic-Systems-State-Space-Representation-and-MATLAB-Simulink-Project/blob/419197504f653840e0b89b12aeb20ffa07d811ab/BlockDiagramSimulink.png" alt="Alt text" style="width: 70%; height: auto;">
+<img src="https://github.com/Zahi-K/Dynamic-Systems-State-Space-Representation-and-MATLAB-Simulink-Project/blob/ad90d55def67933ae05c81a537e52ffbdfd3db13/BlockDiagramSimulink.png" alt="Alt text" style="width: 70%; height: auto;">
 </p>
 The file for the MATLAB simulink block diagram is available on the repository.
 
