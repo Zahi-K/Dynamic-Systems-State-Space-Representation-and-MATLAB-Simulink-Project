@@ -28,9 +28,19 @@ In reality, you rarely have one simple input and one output. State-space allows 
 
 I’ll use a simple system to demonstrate the method. However, the method is the same and just as simple for more complex systems.
 
-Here is some useful references:
+### Here is some useful references:
 
+![Alt text](pasted_permalink)
+![Alt text](pasted_permalink)
 
+### The system we’ll model:
+![Alt text](pasted_permalink)
+### Method:
+![Alt text](pasted_permalink)
+![Alt text](pasted_permalink)
+![Alt text](pasted_permalink)
+### And finally, the block diagram on MATLAB Simulink:
+![Alt text](pasted_permalink)
 
 
 
